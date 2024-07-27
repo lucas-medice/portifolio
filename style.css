@@ -454,3 +454,67 @@ footer .line-footer p a {
     }
 }
 
+/* PROJETOS - DELETAR DEPOIS */
+
+.aviso-projetos{
+    color: #fff;
+    text-align: center;
+    margin: auto;
+}
+
+/* CERTIFICAÇÕES */
+
+section.certificados{
+    align-items: center;
+    gap: 60px;
+}
+
+.cert-geral{
+    margin-bottom: 130px;
+}
+
+.certificado{
+    color: #fff;
+    padding: 40px;
+    border: 2px solid #fff;
+    margin-top: 45px;
+    border-radius: 20px;
+    transition: .2s;
+}
+
+.certificado:hover {
+    transform: scale(1.05);
+    box-shadow: 0 0 8px #ffffff7a;
+}
+
+.txt-cert h2{
+    color: #d80101;
+    font-size: 32px;
+    line-height: 40px;
+    margin-bottom: 30px;
+    margin-top: 80px;
+    margin-left: 30px;
+}
+
+.txt-cert ul {
+    color: #fff;
+    font-size: 25px;
+    font-weight: bold;
+    margin-left: 15%;
+}
+
+.txt-cert ul li{
+    font-size: 15px;
+}
+
+.txt-cert h3{
+    color: #fff;
+    margin-top: 50px;
+    margin-left: 15%;
+}
+
+.txt-cert p{
+    color: #fff;
+    margin-left: 15%;
+    margin-top: 2%;
+}
