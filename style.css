@@ -112,7 +112,7 @@ header a span {
 
 .menu-mobile{
     background-color: #000000;
-    height: 100vh;
+    height: 1000vh;
     position: fixed;
     top: 0;
     right: 0;
@@ -455,6 +455,16 @@ footer .line-footer p a {
 
     .botao-abrir-menu{
         display: block;
+    }
+
+    section.certificados{
+        align-items: center;
+        gap: 20px;
+    }
+
+    .img-cert{
+        width: 100%; 
+        height: 100%;
     }
 }
 
