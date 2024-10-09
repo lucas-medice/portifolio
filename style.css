@@ -358,6 +358,37 @@ form .enviar input {
     transition: .2s;
 }
 
+.whatsapp {
+    margin-top: 4%;
+}
+
+.whatsapp h2 span{
+    color: rgb(52, 226, 29);
+}
+
+.whatsapp h2 a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 50px;
+}
+
+.whatsapp h2 p button{
+    padding: 20px 160px;
+    font-size: 26px;
+    font-weight: 600;
+    background-color: rgb(52, 226, 29);
+    border: 0;
+    border-radius: 70px;
+    cursor: pointer;
+    transition: .2s;
+    margin-top: 2%;
+}
+
+.whatsapp h2 p button:hover{
+    box-shadow: 0px 0px 8px rgb(52, 226, 29);
+    transform: scale(1.05);
+}
+
 
 /* ESTILO FOOTER */
 footer {
